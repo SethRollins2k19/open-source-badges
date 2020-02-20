@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+    <mask id="anybadge_1">
+        <rect width="92" height="20" rx="3" fill="#fff"/>
+    </mask>
+    <g mask="url(#anybadge_1)">
+        <path fill="#555" d="M0 0h61v20H0z"/>
+        <path fill="#FF00FF" d="M61 0h31v20H61z"/>
+        <path fill="url(#b)" d="M0 0h92v20H0z"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <image x="2" y="2" width="15" height="15" xlink:href="https://raw.githubusercontent.com/nim-lang/assets/master/Art/logo-crown.png" />
+        <text x="31.5" y="15" fill="#010101" fill-opacity=".3">Nim</text>
+        <text x="30.5" y="14">Nim</text>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="77.5" y="15" fill="#010101" fill-opacity=".3">lang</text>
+        <text x="76.5" y="14">lang</text>
+    </g>
+</svg>
