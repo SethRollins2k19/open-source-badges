@@ -12,8 +12,7 @@
   <g font-family="DejaVu Sans,Verdana,Geneva,sans-serif">
     <g font-size="12" fill="#282a36">
       <image x="2" y="2" width="15" height="15" href="https://raw.githubusercontent.com/nim-lang/assets/master/Art/logo-crown.png" />
-      <text x="18" y="15" fill="#DDD" fill-opacity=".4">Programming language:</text>
-      <text x="18" y="14">Programming language:</text>
+      <text x="18" y="14" fill="#DDD">Programming language:</text>
     </g>
     <g font-size="12" fill="#282a36">
       <text x="168" y="14" stroke="white" stroke-width="1">Nim</text>
